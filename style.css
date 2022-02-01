@@ -418,7 +418,6 @@ nav {
   top: 0px;
   right: 0;
   /* Shadow 2xl */
-  background-image: url("/header/img/phone.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
